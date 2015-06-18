@@ -1,6 +1,6 @@
 {
   "name": "node-cep",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "repository": {
     "url": "https://github.com/MarcosRava/cep-brazil.git"
   },
@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "cheerio": "^0.16.0",
+    "q": "^1.4.1",
     "request": "^2.36.0"
   },
   "devDependencies": {
