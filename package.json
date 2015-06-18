@@ -1,0 +1,23 @@
+{
+  "name": "node-cep",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/MarcosRava/cep-brazil.git"
+  },
+  "description": "Get zip-code info (Brazil only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": {
+    "name": "Marcos Rava",
+    "email": "marcosrava@gmail.com"
+  },
+  "dependencies": {
+    "cheerio": "^0.16.0",
+    "request": "^2.36.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
